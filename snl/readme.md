@@ -1,6 +1,6 @@
 # SNL词法分析
 [首页](../README.md)
-![Yaktocat 的图片](https://github.com/2605532/English1328/snl/111.jpeg)
+![image](https://github.com/2605532/English1328/snl/111.jpeg)
 > 块
 > >引
 > > >用
