@@ -1,3 +1,27 @@
 # SNL词法分析
 [首页](../README.md)
-![linear](https://github.com/2605532/EngLish1328/blob/main/snl/111.jpeg?raw=true)
+![image](https://github.com/2605532/EngLish1328/blob/main/snl/111.jpeg?raw=true)
+> 块
+> >引
+> > >用
+* 无
+* 序
+* 列
+* 表
+1. 有
+2. 序
+3. 列
+4. 表
+
+| 我  | 是 |
+| ---------- | -----------|
+| 一| 个|
+| 表| 格|
+
+**粗体字** <br>
+_斜体字_   <br>
+~~删除线~~   <br>
+
+
+---------------
+↑水平线
