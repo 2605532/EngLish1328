@@ -1,6 +1,6 @@
 # SNL词法分析
 [首页](../README.md)
-![image]http://pic25.nipic.com/20121107/8847866_164210379199_2.jpg)
+![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
 > 块
 > >引
 > > >用
